@@ -1,0 +1,10 @@
+{
+  "@@locale": "en",
+  "appTitle": "My Application",
+  "hello": "Hello",
+  "welcome": "Welcome to Flutter",
+  "message": "Hello, how are you?",
+  "login": "Login",
+  "logout": "Logout",
+  "settings": "Settings"
+}
